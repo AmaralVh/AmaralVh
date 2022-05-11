@@ -2,7 +2,7 @@
 
 - Computer Science student at the University of Sao Paulo - USP
 
-- Studying Web Development and Data Science
+- Learning Web Development and Data Science
 
 
 <div align="center">
