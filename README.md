@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Victor Hugo Amaral
 
-- 🌱 Estudando HTML e C++
-- 😄 Pronomes: ele/dele
+- 🌱 Estudando Desenvolvimento Web e Ciência de Dados
 
 <div align="center">
   <a href="https://github.com/AmaralVh">
