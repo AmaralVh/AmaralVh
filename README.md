@@ -1,6 +1,6 @@
 ### Hello! I am Victor Hugo Amaral
 
-- Student of Computer Science at the University of Sao Paulo - USP
+- Computer Science student at the University of Sao Paulo - USP
 
 - Studying Web Development and Data Science
 
