@@ -1,7 +1,13 @@
 ### Olá! Eu sou o Victor Hugo Amaral
+### Hello! I am Victor Hugo Amaral
 
 - Estudante de Ciência da Computação na Universidade de São Paulo - USP
+- Studying Computer Science at the University of Sao Paulo - USP
+
+
 - Estudando Desenvolvimento Web e Ciência de Dados
+- Studying Web Development and Data Science
+
 
 <div align="center">
   <a href="https://github.com/AmaralVh">
